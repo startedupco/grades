@@ -1,0 +1,23 @@
+[
+  {
+    "grade": "Grade 9",
+    "nqf_level": 1,
+    "equivalent_names": [
+      "ABET/AET Level 4",
+      "General Education and Training Certificate (GETC)"
+    ]
+  },
+  {
+    "grade": "Grade 10",
+    "nqf_level": 2
+  },
+  {
+    "grade": "Grade 11",
+    "nqf_level": 3
+  },
+  {
+    "grade": "Grade 12",
+    "nqf_level": 4,
+    "qualification": "National Senior Certificate (NSC/Matric)"
+  }
+]
